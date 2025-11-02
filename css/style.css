@@ -1,1 +1,16 @@
-/* Add any custom CSS stylings you want here */
+/* Add any custom CSS you want */
+body {
+  background: #f8f9fa;
+}
+
+#gif-container img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: .5rem;
+}
+
+#status {
+  color: #6c757d;
+  font-size: 0.95rem;
+}
